@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">i200564</string>
+    <string name="Selectcountry">Select Country</string>
+    <string name="SelectCity">Select City</string>
+    <string name="Bestmatch">Best Match\n</string>
+
+</resources>
